@@ -1,0 +1,19 @@
+{
+  "name": "hello-electron-phaser",
+  "version": "1.0.0",
+  "description": "hello-electron-phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsvolt/hello-electron-phaser.git"
+  },
+  "author": "gsvolt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsvolt/hello-electron-phaser/issues"
+  },
+  "homepage": "https://github.com/gsvolt/hello-electron-phaser#readme"
+}
