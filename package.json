@@ -19,6 +19,6 @@
   "homepage": "https://github.com/gsvolt/hello-electron-phaser#readme",
   "dependencies": {
     "electron": "^7.2.4",
-    "phaser": "^3.19.0"
+    "phaser": "^3.52.0"
   }
 }
